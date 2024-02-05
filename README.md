@@ -63,6 +63,7 @@ A witty revision of the famous Magic 8-Ball toy.
 - [JavaScript](https://www.javascript.com/)
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
+- [Original CodePen Fork](https://codepen.io/finnhvman/pen/wrLPJz)
 
 ## License
 
