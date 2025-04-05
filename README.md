@@ -24,9 +24,10 @@
 
 A witty revision of the famous Magic 8-Ball toy. 
 - Play it on CodePen [here](https://codepen.io/scottgriv/pen/LYadGKX).
+- Play it on JSFiddle [here](https://jsfiddle.net/scottgriv/pa17ejob).
 
 <div align="center">
-    <a href="https://codepen.io/scottgriv/pen/LYadGKX"><img src="./docs/images/demo.gif" width="25%" /></a>
+    <a href="https://codepen.io/scottgriv/pen/LYadGKX"><img src="./docs/images/demo.gif" width="50%" /></a>
     <br>
     <i>Built for those who expect a date for something, based on no estimations at all!</i>
 </div>
@@ -63,7 +64,6 @@ A witty revision of the famous Magic 8-Ball toy.
 - [JavaScript](https://www.javascript.com/)
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
-- [Original CodePen Fork](https://codepen.io/finnhvman/pen/wrLPJz)
 
 ## License
 
@@ -77,6 +77,7 @@ This project is released under the terms of **The Unlicense**, which allows you 
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
 **Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
 **Reference:** [Main Branch](https://github.com/scottgriv/javascript-magic_date_ball) <br>
+**Forked From:** [Bence Szabo - CodePen](https://codepen.io/finnhvman/pen/wrLPJz)
 
 ---------------
 
