@@ -73,7 +73,7 @@ This project is released under the terms of **The Unlicense**, which allows you 
 
 ## Credits
 
-**Forked From:** [CodePen](https://codepen.io/finnhvman/pen/wrLPJz)
+**Forked From:** [CodePen](https://codepen.io/finnhvman/pen/wrLPJz) <br>
 I would like to express my gratitude to **Bence Szabo** for their contribution to this project.
 
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
