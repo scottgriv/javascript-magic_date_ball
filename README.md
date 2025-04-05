@@ -73,11 +73,13 @@ This project is released under the terms of **The Unlicense**, which allows you 
 
 ## Credits
 
+**Forked From:** [CodePen](https://codepen.io/finnhvman/pen/wrLPJz)
+I would like to express my gratitude to **Bence Szabo** for their contribution to this project.
+
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
 **Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
 **Reference:** [Main Branch](https://github.com/scottgriv/javascript-magic_date_ball) <br>
-**Forked From:** [Bence Szabo - CodePen](https://codepen.io/finnhvman/pen/wrLPJz)
 
 ---------------
 
