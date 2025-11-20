@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Silver <br>
 **Technology:** JavaScript, HTML, CSS <br>
 **Category:** Web Game, CodePen <br>
-**Order:** 20 <br>
+**Order:** 21 <br>
 
 ## Parameters
 
